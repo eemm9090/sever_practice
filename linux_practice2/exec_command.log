@@ -1,0 +1,87 @@
+    1  ls 
+    2  cd root
+    3  cd server_lesson/
+    4  cd linux_practice2/
+    5  cd trash
+    6  cd ..
+    7  vd documents/
+    8  ls
+    9  cd documents/
+   10  mv gizumo{01..05}.md ../trash
+   11  cd trash && ls
+   12  cd ../trash && ls
+   13   mv gizumo{01..05}.md ../documents
+   14  cd documents
+   15  cd ../documents
+   16  ls
+   17  mv gizumo{20..40}.md ../trash
+   18  cd ../trash && ls
+   19  cd ../ && touch .gitignore
+   20  ls
+   21  vim .gitignore
+   22  git log
+   23  git status
+   24  vim .gitignore
+   25  git status
+   26  vim .gitignore
+   27  cd trach
+   28  cd trash
+   29  ls
+   30  git status
+   31  vim .gitignore
+   32  ls
+   33  cd ../
+   34  vim .gitignore
+   35  git status
+   36  cd ..
+   37  git status
+   38  cd linux_practice2/
+   39  cd trash/
+   40  git status
+   41  ls
+   42  cd ../..
+   43  history 300
+   44*     1  ls
+    2  cd root
+    3  cd server_lesson/
+    4  cd linux_practice2/
+    5  cd trash
+    6  cd ..
+    7  vd documents/
+    8  ls
+    9  cd documents/
+   10  mv gizumo{01..05}.md ../trash
+   11  cd trash && ls
+   12  cd ../trash && ls
+   13   mv gizumo{01..05}.md ../documents
+   14  cd documents
+   15  cd ../documents
+   16  ls
+   17  mv gizumo{20..40}.md ../trash
+   18  cd ../trash && ls
+   19  cd ../ && touch .gitignore
+   20  ls
+   21  vim .gitignore
+   22  git log
+   23  git status
+   24  vim .gitignore
+   25  git status
+   26  vim .gitignore
+   27  cd trach
+   28  cd trash
+   29  ls
+   30  git status
+   31  vim .gitignore
+   32  ls
+   33  cd ../
+   34  vim .gitignore
+   35  git status
+   36  cd ..
+   37  git status
+   38  cd linux_practice2/
+   39  cd trash/
+   40  git status
+   41  ls
+   42  cd ../..
+   43  history 300
+   45  history 300 && history 300 > exec_command.log

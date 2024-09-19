@@ -1,0 +1,22 @@
+#command list
+- ls
+> -a
+> -l
+- pwd
+- mkdir
+> -p
+- touch
+- cp
+> -r
+- mv
+- rm
+> -i
+> -r
+- cat
+- vim
+#wild card
+- "*"
+- "?"
+#write
+- ">"
+- ">>"
